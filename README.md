@@ -1,3 +1,5 @@
+Fork of skia-canvas typescript friendly.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="test/assets/readme-header-dark@2x.png">
   <img alt="Skia Canvas" src="test/assets/readme-header@2x.png">
